@@ -5,7 +5,7 @@ PostgreSQL Database Setup Commands:
 psql
 CREATE USER general WITH PASSWORD 'password' SUPERUSER CREATEDB CREATEROLE;
 CREATE DATABASE student;
-GRANT ALL PRIVILEGES ON DATABASE "student" TO general
+GRANT ALL PRIVILEGES ON DATABASE "student" TO general;
 GRANT ALL PRIVILEGES ON DATABASE "student" TO postgres;
 
 CURL POST, PUT & Delete Command Examples:
