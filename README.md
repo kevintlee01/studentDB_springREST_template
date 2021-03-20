@@ -1,4 +1,4 @@
-# studentDB_springREST_template
+# studentDB_template
 Simple student database using RESTful web service with Spring Boot in Java and PostgreSQL
 
 PostgreSQL Database Setup Commands:
